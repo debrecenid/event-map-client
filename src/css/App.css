@@ -5,4 +5,24 @@
 .App-header {
   text-align: center;
 }
-#map { height: 680px; width: 50%; }
+#map {
+  height: 680px;
+  width: 50%;
+}
+
+body {
+  padding-bottom: 30px;
+}
+
+h1,
+h2,
+p {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.leaflet-container {
+  height: 700px;
+  width: 100%;
+  margin: 0 auto;
+}
